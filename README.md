@@ -8,18 +8,18 @@
 🚀 Goal: Build AI-powered products and scalable SaaS solutions<br>**
 
 🔧 **Tech Interests & Focus Areas
-Artificial Intelligence & Machine Learning<br>
-Data Science & Analytics<br>
-Deep Learning & Generative AI<br>
-AI Agents & Automation<br>
-SaaS Product Development<br>
-Cloud-based AI Applications<br>**
+--Artificial Intelligence & Machine Learning<br>
+--Data Science & Analytics<br>
+--Deep Learning & Generative AI<br>
+--AI Agents & Automation<br>
+--SaaS Product Development<br>
+--Cloud-based AI Applications<br>**
 
 🎯 **What I’m Working Towards
-Strong CS fundamentals (DSA, DBMS, OS)<br>
-Building real-world AI projects<br>
-Developing AI-driven SaaS platforms<br>
-Preparing for a career as an AI Engineer / AI SaaS Developer<br>**
+--Strong CS fundamentals (DSA, DBMS, OS)<br>
+--Building real-world AI projects<br>
+--Developing AI-driven SaaS platforms<br>
+--Preparing for a career as an AI Engineer / AI SaaS Developer<br>**
 
 🌟 **Long-Term Vision
-To create impactful AI solutions that solve real problems and scale globally through SaaS products.<br>**
+--To create impactful AI solutions that solve real problems and scale globally through SaaS products.<br>**
