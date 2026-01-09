@@ -1,6 +1,7 @@
 **👋 Hi there, I’m Megaraj**
 
-🤖 **Aspiring AI Engineer<br>
+🤖 **Aspiring AI Engineer<br>**
+
 🎓 BCA Graduate | 🎓 MCA (AI Specialization – Upcoming)<br>
 🌱 Currently learning Data Science & Machine Learning<br>
 💻 Working with Python,JavaScript,SQL & Java<br>
